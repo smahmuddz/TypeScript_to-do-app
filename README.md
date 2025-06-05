@@ -11,8 +11,6 @@ I have successfully completed the **Typescript ABCD 1** course offered by **Osta
 Below is a preview of the certificate:
 ![Typescript ABCD 1 Certificate](certificate_preview.png) 
 
-*(If you've placed the image elsewhere or named it differently, please update the path above.)*
-
 ### Certificate Details:
 
 *   **Recipient:** Sabbir Mahmud Afridi
@@ -24,8 +22,6 @@ Below is a preview of the certificate:
 ---
 
 ## About This Project
-
-*(You can expand this section with more details about your specific project, how to run it, its features, etc. The content below is a generic placeholder based on the To-Do app we discussed earlier. Adjust as needed.)*
 
 ### Features (Example for a To-Do App)
 *   Add new tasks
