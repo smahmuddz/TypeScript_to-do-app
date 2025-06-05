@@ -1,8 +1,6 @@
-# Project Title (e.g., My TypeScript Project / To-Do List App)
+# To-Do List
 
-This project is a [brief description of your project, e.g., "simple To-Do List application built with React, TypeScript, and Tailwind CSS"].
-
----
+This project is a simple to do list app built while learning TypeScript.
 
 ## TypeScript Course Completion
 
